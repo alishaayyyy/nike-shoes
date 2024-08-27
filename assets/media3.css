@@ -1,0 +1,14 @@
+.main .left{padding-left: 20px;}
+    
+    .main .left .h1{
+        font-size: 60px;
+        line-height: 4rem;
+    }
+    .main .left .h1 .btn2{
+        margin-left: 0px;
+    }
+    .right .shoe{
+        width: 300px;
+        margin-top: 0rem;
+        box-shadow: 0 10px 90px rgba(0, 0, 0, 0.02);
+    }

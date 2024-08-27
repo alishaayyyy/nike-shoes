@@ -1,0 +1,14 @@
+.main{flex-direction: column;}
+.container .navbar nav ul {
+
+    margin-left: 0px;
+    }
+     .narbar nav ul li{
+        margin-left: 0px;
+    }
+
+    .right .shoe{
+        width: 600px;
+        margin-top: 5rem;
+        box-shadow: 0 10px 90px rgba(0, 0, 0, 0.02);
+    }
